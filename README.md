@@ -13,7 +13,7 @@
 - [References](#references)
 
 ### Project Overview 
-
+---
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 ![bar plot](https://github.com/user-attachments/assets/f41d5855-5fd8-4423-9266-4ba67749558c)
@@ -73,3 +73,14 @@ I had to remove all zero values from budget and revenue columns because they wou
 ### References
 1. SQL for business by ABC
 2. [Stack Overflow](https://stackoverflow.com)
+
+😄
+💻
+|Heading1|Heading2|
+|--------|--------|
+|Content|Content2|
+|Python|SQL|
+
+**Bold**
+
+*italic*
